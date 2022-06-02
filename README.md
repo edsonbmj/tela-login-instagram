@@ -1,4 +1,4 @@
-# Desafio Tela de Login Instagra
+# Desafio Tela de Login Instagram
 Repo com o intuito de recriar layout do login Instagram, baseada na videoaula da Gabriela Pinheiro, do bootcamp da Santander.
 
 ## Conteúdo
